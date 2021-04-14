@@ -6,7 +6,7 @@
 2. On each unit where you need internationalization add a *Raw HTM* component 
 3. Import `edx-translate.js`
    ```html
-   <script src="/static/ill-styleguide.js"></script>
+   <script src="/static/edx-translate.js"></script>
    ```
 4. Add a language selection radio button
    ```html
